@@ -1,0 +1,5 @@
+Loading up the project:
+1. Clone the repo by: git clone https://github.com/KickShade/VoxSummProject.git
+2. Upload the Jupyter Notebook to Google Colab
+3. Install the required dependencies on Colab by: !pip install whisper transformers matplotlib torch librosa
+4. Run the individual cells and upload the audio file when prompted, in mp3,wav format
