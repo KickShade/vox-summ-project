@@ -4,3 +4,6 @@ transformers
 torch
 torchaudio
 matplotlib
+transformers
+torch
+torchaudio
