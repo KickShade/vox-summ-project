@@ -4,6 +4,9 @@ transformers
 torch
 torchaudio
 matplotlib
-transformers
 torch
 torchaudio
+transformers
+openai-whisper
+numba
+llvmlite
